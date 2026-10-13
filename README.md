@@ -1,4 +1,5 @@
 --Readme document for Harita Kalvai, hkalvaiI@uci.edu--
+* Please note that in my readme file, I list my two pages as being the "home" and "about" page. The home page is index.html.
 
 A reminder on academic integrity, as described in the syllabus.
 
